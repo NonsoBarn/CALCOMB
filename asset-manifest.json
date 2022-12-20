@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CALCOMB/static/css/main.6cdcc594.css",
+    "main.js": "/CALCOMB/static/js/main.b2b1e52f.js",
+    "index.html": "/CALCOMB/index.html",
+    "main.6cdcc594.css.map": "/CALCOMB/static/css/main.6cdcc594.css.map",
+    "main.b2b1e52f.js.map": "/CALCOMB/static/js/main.b2b1e52f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cdcc594.css",
+    "static/js/main.b2b1e52f.js"
+  ]
+}
