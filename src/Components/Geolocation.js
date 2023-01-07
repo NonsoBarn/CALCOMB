@@ -11,7 +11,7 @@ const Geolocation = () => {
     } else {
       const getCountry = async () => {
         const response = await axios.get(
-          "https://api.ipregistry.co/?key=tryout"
+          "https://api.ipregistry.co/?key=6djfg9168pm5gupe"
         );
 
         // console.log(response);
