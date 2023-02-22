@@ -109,7 +109,7 @@ const BMI = ({ setOpenBMIModal }) => {
                             <input
                               className="bg-gray-100 shadow appearance-none  rounded w-full py-2 px-3 text-gray-700 mb-0 leading-tight focus:outline-none focus:shadow-outline"
                               id="Weight"
-                              type="Weight in kg"
+                              type="text"
                               placeholder="Weight in kg"
                               value={weight}
                               onChange={(e) => setWeight(e.target.value)}
